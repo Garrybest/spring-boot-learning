@@ -1,4 +1,4 @@
-package com.garrybest.chapter1.web;
+package com.garrybest.web;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

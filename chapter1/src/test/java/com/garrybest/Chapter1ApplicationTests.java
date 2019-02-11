@@ -1,6 +1,6 @@
-package com.garrybest.chapter1;
+package com.garrybest;
 
-import com.garrybest.chapter1.web.HelloController;
+import com.garrybest.web.HelloController;
 import org.hamcrest.Matchers;
 import org.junit.Before;
 import org.junit.Test;
