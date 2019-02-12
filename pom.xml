@@ -18,6 +18,9 @@
 
     <modules>
         <module>chapter1</module>
+        <module>chapter2-1-1</module>
+        <module>chapter3-1-1</module>
+        <module>chapter3-1-6</module>
     </modules>
 
     <dependencies>
